@@ -13,8 +13,9 @@ import java.util.Map;
 public class Task7Controller {
 
     @GetMapping("/name")
-    public List<String> getUser(){
-        return List.of("nagata","koyama");
+    public ResponseEntity<Map<String,String>> getUser(@RequestParam(value = "name",defaultValue = "name")String name,@RequestParam(value = "birthday",defaultValue = "0000")String birthday){
+
+        return ResponseEntity.ok(Map.of("message",name+" "+birthday));
     }
 
     @PostMapping("/names")
