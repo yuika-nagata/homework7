@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ef691008-24e1-41fe-be04-434c989b5259" name="変更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/raisetech/task7/CreateForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/raisetech/task7/CreateForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/raisetech/task7/Task7Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/raisetech/task7/Task7Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/raisetech/task7/UpdateForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/raisetech/task7/UpdateForm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
